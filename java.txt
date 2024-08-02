@@ -1,0 +1,10 @@
+https://github.com/lironmiz/Computer-Science-in-Java/blob/71abf905b948e24c02e2d3fc303e285e70a45dfa/E.java
+https://github.com/CoFH/ThermalFoundation-1.12-Legacy/blob/4f088d82a8e6fbd767cd4bc7d0c3428888a6ff2f/src/main/java/cofh/thermalfoundation/world/biome/TFBiomes.java
+https://github.com/maheshjainckd/Hacktoberfest2022-for-everyone/blob/c33bcf194945ad3aee63d9d73022ac5f7e32855c/Java/BST_using_LL
+https://github.com/EngineeringSoftware/jattack/blob/212ce3ebbc4ebc80691aecfcb94c3c2995f2bc9e/T.java
+https://github.com/luckykumardev/leetcode-solution/blob/c44e9e7bdc38cd6f2fc992c84a64428ebb1a3e53/.java
+https://github.com/Pavan-Kamthane/Cpp_Lang/blob/5c144eef1128bce538a1322cddd25710f9ff81b4/ASHISH
+https://github.com/MLSA-Mehran-UET/Learn-to-code-java/blob/3d34e123179d47a1aee95b3e3003ba4f5e234b1f/Java
+https://github.com/GigaDroid/Decompiled-Whatsapp/blob/652bec1376e6cd201d54262cc1d4e7637c6334ed/s.java
+https://github.com/brainmentorspvtltd/DIT-Java-Batch3/blob/fc578cfa5a2ab3ede808be47084f3c49ab60ad11/D.java
+https://github.com/nithinrajeev/SP16SCM/blob/546e8ad78e8f8cd461ee304b621691212ac2a1b1/d.java

@@ -1,0 +1,10 @@
+https://github.com/hyde/hyde/blob/7f415402cc3e007a746eb2b5bc102281fdb415bd/h
+https://github.com/vyapp/vy/blob/4ba0d379e21744fd79a740e8aeaba3a0a779973c/vy
+https://github.com/webosose/build-webos/blob/25f7aa90131fe20b38008d0980303a60a9b0be1a/mcf
+https://github.com/CIFASIS/VDiscover/blob/cc1e74fe48780a0809a801bf80039d5529cab10a/vd
+https://github.com/CZ-NIC/pz/blob/a4779aa1167d503e1a109a0274d8af11ba0d85af/pz
+https://github.com/sadaszewski/focker/blob/e62511d815de32921d056ad0518eabe8e63f1c57/t
+https://github.com/LeeXiaolan/tplink-vxworks-based-firmware/blob/b514b71b15ed2037d3fc2334524c9dfd23f87550/fw
+https://github.com/cask/cask/blob/532e3638c2e4a44ee17706d4b26ed1a5a3fb99c5/go
+https://github.com/afiskon/py-vm/blob/446b7d553172cfb03fc428d418ebf065eaebc661/vm
+https://github.com/shawwn/scrap/blob/41a74d42b37b84ddc270928e55b1ca5f5a172cb3/re

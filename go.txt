@@ -1,0 +1,10 @@
+https://github.com/anacrolix/torrent/blob/f63b38aad66251492066ef8c66f6c8abf81540bc/t.go
+https://github.com/celestiaorg/celestia-node/blob/6c5cf7def9db8268c917f1cc03285270c4c28770/cmd/env.go
+https://github.com/kitech/qt.go/blob/1f663c53d3631f7009a0487efdb24c5eee4a031f/qtrt/c.go
+https://github.com/eddycjy/fake-useragent/blob/f60a0a01472df8bb933c5f02abded077227bc3c1/b.go
+https://github.com/itsubaki/q/blob/d2ac483e57e549bf67dc5d053887195763c7828f/q.go
+https://github.com/StabbyCutyou/generics/blob/2f97a45b4b3e4e265b40aa71b70b0b1bf90d2d67/g.go
+https://github.com/go-faster/jx/blob/6c6a4ab781b1bc14b0047c16e706cc76bfbdc919/w.go
+https://github.com/vanadium-archive/go.jiri/blob/abfb8b13129095e9bf6f7ac44311ae2ae0b100cb/x.go
+https://github.com/ktye/i/blob/15579fb3f48935f61f09f109338f190c090048e1/k.go
+https://github.com/gabstv/go-bsdiff/blob/d449682b2c4873092fdd69b3df05e17f5d38b76e/n.go

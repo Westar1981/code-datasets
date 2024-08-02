@@ -1,0 +1,10 @@
+https://github.com/easy-swoole/easyswoole/blob/ac99b1b7c84f3b5f8497e52804e4e46b59cce181/bin/easyswoole.php
+https://github.com/luolongfei/freenom/blob/dc2f4e3730cd90a125f4448a1de206f0dbabac92/run
+https://github.com/etsy/TryLib/blob/e0f4c56af543c8cb2ff237ba2d55e692e020d6b3/try
+https://github.com/opensourcewebsite-org/opensourcewebsite-org/blob/0ce7990ccf9ddb5bbe246c0b7c864597f909873d/yii
+https://github.com/Oraculum-ON/ON/blob/3f55abc9865d07f70354008ec9b04313050d47c9/%2B
+https://github.com/Yangshifu1024/php-ext-oop/blob/cf219b2c8c0da2baec54b36e067f0968424cbe23/ci
+https://github.com/ArcFramework/plugin/blob/efcba02ed3955a9d1085764df1b191d164f895e1/arc
+https://github.com/codefii/codefii/blob/b4ec5f57c15138a5ccbea145591482bdb35994c3/fii
+https://github.com/omz13/omz13-coding-standard/blob/5b7390f4f55b4693bf6a40644ae02ed73ead7516/RMT
+https://github.com/NullRefExcep/yii2-boilerplate/blob/f0b7b37c37751af22c1de80f005806e343dc8800/yii

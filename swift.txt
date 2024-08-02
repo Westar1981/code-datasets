@@ -1,0 +1,10 @@
+https://github.com/mRs-/Black-Friday-Deals/blob/811898ee7bcc477b3140e049bf39dcb845b5f865/404.swift
+https://github.com/netyouli/WHC_ConfuseSoftware/blob/d38f7b4a8daf302ded3f652f89e57da8c0d19517/App.swift
+https://github.com/drujensen/fib/blob/578c15d13690fb36b1b3d8a419c5517c84abcd06/fib.swift
+https://github.com/tmandry/Swindler/blob/bf2c42f1db8bb1aa6c0b634d9fca3ab4bd37931d/API.swift
+https://github.com/Abizern/xcode-snippets/blob/2783d6383e4822b32d4860ddadaaa3e4ffc44ec2/imv.swift
+https://github.com/vlall/Swift-Brain/blob/48f5869a481087316eaef0207fbb9b288a839b27/source/svm.swift
+https://github.com/yshui/deai/blob/e9dd99f81d19084993ef4d51cb92c68283366661/dummy.cc
+https://github.com/enochng1/RaceMe/blob/37fc98271c644be7475c9ec7f467b815b3454438/RaceMe/Run.swift
+https://github.com/zhuowei/marina/blob/b7339cc7cd7a6de7c45e1c87916cc246261794b3/main.swift
+https://github.com/SwiftAndroid/swift-jni/blob/b6fa454d419aaf77b86ae36a7c23773fab473b14/JNI.swift

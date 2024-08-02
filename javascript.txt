@@ -1,0 +1,10 @@
+https://github.com/rescript-lang/rescript-compiler/blob/0b1443f967808a41c3ad309002eca964f0b6465f/bsc
+https://github.com/imba/imba/blob/283c5efa9ef38afbde7943becf68dce331f75d4b/packages/imba/templates/cli/bin
+https://github.com/web-infra-dev/rspack/blob/4e666c2a9ca1a0ef953c40ba7aa7341578836241/x
+https://github.com/otaviolemos/giveaway/blob/2b1c5cd94fdf7440cbcfd62d10bdd7eea1a6562f/.js
+https://github.com/Hustle/tf/blob/ad4bf97616838198e7b50db6075bf347840e04ec/tf
+https://github.com/raunakab/latex-template/blob/f084875396ca53676b1fa0613434567bc9929462/tex
+https://github.com/Gradner/Space_Pirates/blob/ec149373194441463a9ffabafc0c07c0e607847a/www
+https://github.com/Automedon/CodeWars-7-kyu-Soluitions/blob/3eb44e3ae1bd7a94b20e54a9cb1f29bc8775f99b/Insert%20dashes
+https://github.com/exponentsoftware/fdoc_1-SREEJITH-KC/blob/6da5191c9c25d46963ae084d4a6121641088175d/1b
+https://github.com/WendellAdriel/adonis-api-skeleton/blob/01a341dffd2a22a45c42b7eb39ce83c888591a07/ace

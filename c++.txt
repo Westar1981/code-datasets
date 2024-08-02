@@ -1,0 +1,10 @@
+https://github.com/selfboot/CS_Offer/blob/94a6d5ded3ce8a75f73f7f83dd1bc7a3e03154e5/Coding/Linux_OS_Daemon.cpp
+https://github.com/DaehwanKimLab/hisat2/blob/50869389923e5fa2ba8cf1e36f711c85a7889ccd/gp.h
+https://github.com/jdeng/word2vec/blob/3b1e8880915b5d04f74c739f640c3eacafb88464/v.h
+https://github.com/horchi/linux-p4d/blob/e0f1ac58ac30d8b22220dab558ff8f54281d87f3/w1.h
+https://github.com/fjean/pymeanshift/blob/1ba90da647342184ea7df378d7f21eba257a51d9/ms.h
+https://github.com/vygr/C-PCB/blob/44cfd2b2db5c2ba265462e4c81b173b7c5b09ea5/io.h
+https://github.com/millanek/Dsuite/blob/2037645aba09821c6dacbe4ac2758ca3a36205b4/D.h
+https://github.com/HowardHinnant/hash_append/blob/bd892bfcbb1d84b05f87dd32cdb8c47e356c1a86/X.h
+https://github.com/naclander/openmugen/blob/eccf1af0d95255d0aca9458a86ded10b9fca2f4e/src/VM.h
+https://github.com/OpenFOAM/OpenFOAM-7/blob/63349425784a38457964e6470087a2eaac8f0673/tutorials/DNS/dnsFoam/boxTurb16/0/p

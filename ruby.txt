@@ -1,0 +1,10 @@
+https://github.com/sketchplugins/plugin-directory/blob/5275ebf185f74d4ceb80464a3cc87671024d2f97/add
+https://github.com/ryanmjacobs/c/blob/7cdc09e69d2f7fc49f70c80c565aa09b19e666db/c.rb
+https://github.com/buo/homebrew-cask-upgrade/blob/45667648559c3426f4ed3357c07cb131ae1c0bc2/lib/bcu/module/pin.rb
+https://github.com/thisredone/rb/blob/2001b3cabb3f4021af14f86759be23704f5a322a/rb
+https://github.com/unitedstates/APIs/blob/73d799c1d258cbe59953454ac2caa6495333ae51/go
+https://github.com/jamestomasino/dotfiles/blob/e328e4d508615123ffac75eab3deb9692012ba89/bin/b
+https://github.com/mkhl/bin/blob/71fc25cea91800d20254be65ee7af196b43944f6/sor
+https://github.com/kingdonb/stats-tracker-ghcr/blob/f7cd2a1d8c58e4c507d9c9952ee4a4515c90cd5f/cli
+https://github.com/topher6345/gb/blob/290e7602c3b9698a7c5be84a41ec269fe28bcf33/gb
+https://github.com/fugalh/k20/blob/61da03eab156648262024a4edbbb4bc2b644cc13/opg
